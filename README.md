@@ -30,7 +30,7 @@ Bounding boxes were rearranged with extreme values to be comparable with labels.
 
 **PyZbar:** 
 
-![](pyzbar/results/1.jpg)![](pyzbar/results/2.jpg)![](pyzbar/results/3.jpg)![](pyzbar/results/4.jpg)![](pyzbar/results/5.jpg)![](pyzbar/results/6.jpg)![](pyzbar/results/7.jpg)![](pyzbar/results/8.jpg)![](pyzbar/results/9.jpg)!
+![](pyzbar/results/1.jpg)![](pyzbar/results/2.jpg)![](pyzbar/results/3.jpg)![](pyzbar/results/4.jpg)![](pyzbar/results/5.jpg)![](pyzbar/results/6.jpg)![](pyzbar/results/7.jpg)![](pyzbar/results/8.jpg)![](pyzbar/results/9.jpg)
 
 In the 3rd example, it actually found 3 QR codes, but because of the way I chose to draw the bounding box, it seems like it found just one huge QR code.
 
