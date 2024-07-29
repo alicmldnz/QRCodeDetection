@@ -21,43 +21,24 @@ Methods were tested on PC according to the Dataset.
 
 **Comprasion:** 
 
-![](results/comprasion.png)
+![](results/results.png)
 
 **Example Results: PyZbar:** 
 
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.003.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.004.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.005.png)
-
-![ref1]![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.007.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.008.png)
-
-![ref2]![ref3]![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.011.png)
+![](pyzbar/results/1.jpg)![]![](pyzbar/results/2.jpg)!![](pyzbar/results/3.jpg)!![](pyzbar/results/4.jpg)!![](pyzbar/results/5.jpg)!![](pyzbar/results/6.jpg)!![](pyzbar/results/7.jpg)!![](pyzbar/results/8.jpg)!![](pyzbar/results/9.jpg)!
 
 In the last example, it actually found 3 QR codes, but because of the way I chose to draw the bounding box, it seems like it found just one huge QR code.
 
 **OpenCv :** 
 
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.012.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.013.png)![ref1]
-
-![ref4]![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.015.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.016.png)
-
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.017.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.018.png)![ref3]
-
+![](opencv/results/1.jpg)![]![](opencv/results/2.jpg)!![](opencv/results/3.jpg)!![](opencv/results/4.jpg)!![](opencv/results/5.jpg)!![](opencv/results/6.jpg)!![](opencv/results/7.jpg)!![](opencv/results/8.jpg)!![](opencv/results/9.jpg)!
 **Pyboof:** 
-
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.019.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.020.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.021.png)
-
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.022.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.023.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.024.png)
-
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.025.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.026.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.027.png)
-
+![](pyboof/examples/results/1.jpg)![]![](pyboof/examples/results/2.jpg)!![](pyboof/examples/results/3.jpg)!![](pyboof/examples/results/4.jpg)!![](pyboof/examples/results/5.jpg)!![](pyboof/examples/results/6.jpg)!![](pyboof/examples/results/7.jpg)!![](pyboof/examples/results/8.jpg)!![](pyboof/examples/results/9.jpg)!
 In the last example it found 4 qr codes.
 
 **Yolo:** 
 
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.028.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.029.png)![ref1]
-
-![ref4]![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.030.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.031.png)
-
-![ref2]![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.032.png)![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.033.png)
+![](yolo/results/1.jpg)![]![](yolo/results/2.jpg)!![](yolo/results/3.jpg)!![](yolo/results/4.jpg)!![](yolo/results/5.jpg)!![](yolo/results/6.jpg)!![](yolo/results/7.jpg)!![](yolo/results/8.jpg)!![](yolo/results/9.jpg)!
 
 2. **Demo** 
 
@@ -73,9 +54,8 @@ successfully found. It is also successfull when shown at an angle. (Close-ups)
 
 **Pyboof:** Image (grayscale) fps is quite low. It can be said that it is successful in close - up and successful in small pictures (from a distance). Rotated is successful.
 
-**Extra Comprasion:** [https://www.dynamsoft.com/codepool/qr-code-reading - benchmark-and-comparison.html ](https://www.dynamsoft.com/codepool/qr-code-reading-benchmark-and-comparison.html)
+**Extra Comprasion:** [https://www.dynamsoft.com/codepool/qr-code-reading - benchmark-and-comparison.html ]![](results/comprasion.png)
 
-![](Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.034.jpeg)
 
 **Some Resources:** 
 
@@ -88,8 +68,3 @@ successfully found. It is also successfull when shown at an angle. (Close-ups)
 [https://github.com/yushulx/opencv-yolo-qr-detection ](https://github.com/yushulx/opencv-yolo-qr-detection)
 
 **Different Dataset can be used:** https://www.kaggle.com/datasets/hamidl/yoloqrlabeled/data
-
-[ref1]: Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.006.png
-[ref2]: Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.009.png
-[ref3]: Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.010.png
-[ref4]: Aspose.Words.fea68405-6f82-4366-b959-b2260c3225b1.014.png
