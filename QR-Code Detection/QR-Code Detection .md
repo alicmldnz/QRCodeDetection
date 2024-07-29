@@ -4,7 +4,9 @@
 
 PyZbar: https://pypi.org/project/pyzbar/
 
-OpenCv : https://docs.opencv.org/4.x/de/dc3/classcv\_1\_1QRCodeDetector.html Pyboof [:https://pypi.org/project/PyBoof/ ](https://pypi.org/project/PyBoof/)https://boofcv.org/index.php?title=Example\_Detect\_QR\_Code
+OpenCv : https://docs.opencv.org/4.x/de/dc3/classcv\_1\_1QRCodeDetector.html 
+
+Pyboof [:https://pypi.org/project/PyBoof/ ](https://pypi.org/project/PyBoof/)https://boofcv.org/index.php?title=Example\_Detect\_QR\_Code
 
 Yolo: Pretrained Model was used but the dataset of the pre-trained model is unknown. 
 
