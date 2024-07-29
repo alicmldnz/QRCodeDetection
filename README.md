@@ -30,23 +30,23 @@ Bounding boxes were rearranged with extreme values to be comparable with labels.
 
 **PyZbar:** 
 
-![](pyzbar/results/1.jpg)![]![](pyzbar/results/2.jpg)!![](pyzbar/results/3.jpg)!![](pyzbar/results/4.jpg)!![](pyzbar/results/5.jpg)!![](pyzbar/results/6.jpg)!![](pyzbar/results/7.jpg)!![](pyzbar/results/8.jpg)!![](pyzbar/results/9.jpg)!
+![](pyzbar/results/1.jpg)![](pyzbar/results/2.jpg)![](pyzbar/results/3.jpg)![](pyzbar/results/4.jpg)![](pyzbar/results/5.jpg)![](pyzbar/results/6.jpg)![](pyzbar/results/7.jpg)![](pyzbar/results/8.jpg)![](pyzbar/results/9.jpg)!
 
 In the 3rd example, it actually found 3 QR codes, but because of the way I chose to draw the bounding box, it seems like it found just one huge QR code.
 
 **OpenCv :** 
 
-![](opencv/results/1.jpg)![]![](opencv/results/2.jpg)!![](opencv/results/3.jpg)!![](opencv/results/4.jpg)!![](opencv/results/5.jpg)!![](opencv/results/6.jpg)!![](opencv/results/7.jpg)!![](opencv/results/8.jpg)!![](opencv/results/9.jpg)!
+![](opencv/results/1.jpg)![](opencv/results/2.jpg)![](opencv/results/3.jpg)![](opencv/results/4.jpg)![](opencv/results/5.jpg)![](opencv/results/6.jpg)![](opencv/results/7.jpg)![](opencv/results/8.jpg)![](opencv/results/9.jpg)
 
 **Pyboof:** 
 
-![](pyboof/examples/results/1.jpg)![]![](pyboof/examples/results/2.jpg)!![](pyboof/examples/results/3.jpg)!![](pyboof/examples/results/4.jpg)!![](pyboof/examples/results/5.jpg)!![](pyboof/examples/results/6.jpg)!![](pyboof/examples/results/7.jpg)!![](pyboof/examples/results/8.jpg)!![](pyboof/examples/results/9.jpg)!
+![](pyboof/examples/results/1.jpg)![](pyboof/examples/results/2.jpg)![](pyboof/examples/results/3.jpg)![](pyboof/examples/results/4.jpg)![](pyboof/examples/results/5.jpg)![](pyboof/examples/results/6.jpg)![](pyboof/examples/results/7.jpg)![](pyboof/examples/results/8.jpg)![](pyboof/examples/results/9.jpg)!
 
 In the 3rd example it found 4 qr codes.
 
 **Yolo:** 
 
-![](yolo/results/1.jpg)![]![](yolo/results/2.jpg)!![](yolo/results/3.jpg)!![](yolo/results/4.jpg)!![](yolo/results/5.jpg)!![](yolo/results/6.jpg)!![](yolo/results/7.jpg)!![](yolo/results/8.jpg)!![](yolo/results/9.jpg)!
+![](yolo/results/1.jpg)![](yolo/results/2.jpg)![](yolo/results/3.jpg)![](yolo/results/4.jpg)![](yolo/results/5.jpg)![](yolo/results/6.jpg)![](yolo/results/7.jpg)![](yolo/results/8.jpg)![](yolo/results/9.jpg)!
 
 2. **Demo** 
 
