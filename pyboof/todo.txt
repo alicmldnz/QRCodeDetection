@@ -1,0 +1,16 @@
+- TODO Calibration unit tests
+- TODO https://github.com/lessthanoptimal/PyBoof/issues/12
+
+- visual odometry
+- polygon detector
+
+- TODO Detect black polygons and ellipses
+- TODO Visualize detected markers inside the image
+
+- TODO Estimate camera motion
+- TODO FDistort
+
+- unit tests
+  * images
+
+- upload jar to gradle central so that it doesn't need to be compiled
