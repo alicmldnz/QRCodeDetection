@@ -50,7 +50,7 @@ In the 3rd example it found 4 qr codes.
 
 2. **Demo** 
 
-Computer Camera was used instead of using dataset.
+I didn't have a dataset available, so I used a computer camera for real-time captures instead.
 
 **OpenCV:** It is not successful in images shown far from the camera. It is less successful in images shown at an angle to the camera. It detects rotated images successfully.
 
